@@ -1,0 +1,18 @@
+{
+  "drugs": [
+    "Arthrotec",
+    "co-codamol"
+  ],
+  "ades": [
+    "constipation",
+    "extreme joint pain",
+    "extreme itching",
+    "decreased mobility"
+  ],
+  "symptoms": [
+    "joint pain",
+    "itching",
+    "decreased mobility",
+    "disrupted sleep"
+  ]
+}

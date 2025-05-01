@@ -1,0 +1,17 @@
+{
+  "drugs": [
+    "Arthrotec 50",
+    "Arthrotec 75"
+  ],
+  "ades": [
+    "drowsiness",
+    "blurred vision",
+    "feeling weird"
+  ],
+  "symptoms": [
+    "arthritis",
+    "gastric problems",
+    "pain",
+    "agony"
+  ]
+}

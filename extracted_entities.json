@@ -1,0 +1,72 @@
+{
+  "ARTHROTEC.2.txt": {
+    "drugs": [],
+    "ades": [
+      "heartburn",
+      "nausea",
+      "sharp unbearable cramping pains in lower gut"
+    ],
+    "symptoms": [
+      "voracious hunger",
+      "pain in forearms"
+    ]
+  },
+  "ARTHROTEC.3.txt": {
+    "drugs": [
+      "Arthrotec",
+      "co-codamol"
+    ],
+    "ades": [
+      "constipation",
+      "extreme joint pain",
+      "extreme itching",
+      "decreased mobility"
+    ],
+    "symptoms": [
+      "joint pain",
+      "itching",
+      "decreased mobility",
+      "disrupted sleep"
+    ]
+  },
+  "LIPITOR.233.txt": {
+    "drugs": [],
+    "ades": [],
+    "symptoms": [
+      "lethargy",
+      "leg soreness"
+    ]
+  },
+  "ARTHROTEC.1.txt": {
+    "drugs": [
+      "Arthrotec 50",
+      "Arthrotec 75"
+    ],
+    "ades": [
+      "drowsiness",
+      "blurred vision",
+      "feeling weird"
+    ],
+    "symptoms": [
+      "arthritis",
+      "gastric problems",
+      "pain",
+      "agony"
+    ]
+  },
+  "ARTHROTEC.4.txt": {
+    "drugs": [
+      "Arthrotec"
+    ],
+    "ades": [
+      "horrific cramps",
+      "heavy bleeding"
+    ],
+    "symptoms": [
+      "endometriosis",
+      "pinched nerve",
+      "heavy bleeding",
+      "cramps"
+    ]
+  }
+}
