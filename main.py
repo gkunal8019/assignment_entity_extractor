@@ -13,7 +13,7 @@ from llama_index.core import Settings
 llm_model = "meta/llama-3.1-405b-instruct"
 nvllm = NVIDIA(
     model=llm_model,
-    api_key="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"
+    api_key="Mentioned_Api_Key"
 )
 embedder = NVIDIAEmbedding(
     base_url="http://192.168.100.64:8000/v1",
