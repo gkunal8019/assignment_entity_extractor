@@ -15,13 +15,8 @@ nvllm = NVIDIA(
     model=llm_model,
     api_key="Mentioned_Api_Key"
 )
-embedder = NVIDIAEmbedding(
-    base_url="http://192.168.100.64:8000/v1",
-    model="nvidia/nv-embedqa-e5-v5",
-    truncate="END"
-)
+
 Settings.llm = nvllm
-Settings.embed_model = embedder
 Settings.context_window = 4096
 Settings.num_output = 1100
 
